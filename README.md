@@ -31,7 +31,8 @@ docker run –p8080:8080 –p50000:50000 –d –v jenkins_home:/var/jenkins_hom
 ![Screenshot (142)](https://github.com/kenchuks44/Workflow-with-Docker/assets/88329191/e7b21b52-2b0d-48ef-9a0b-50c6009666f8)
 
 
-![image](https://github.com/kenchuks44/Workflow-with-Docker/assets/88329191/c7cdc8bd-bff7-4d0d-9bfd-519fc2ae5a2e)
+![Screenshot (143)](https://github.com/kenchuks44/Workflow-with-Docker/assets/88329191/e80d39c6-237e-4e55-bd5e-40cc4867e1a9)
+
 
 ![image](https://github.com/kenchuks44/Workflow-with-Docker/assets/88329191/63d09427-c4a1-437d-a43f-72b45fa0728b)
 
